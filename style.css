@@ -1,0 +1,67 @@
+.icons{
+    margin: auto;
+}
+.main{
+    margin: auto;
+   
+    border-radius: 25px;
+    background-color: whitesmoke;
+}
+
+.icons span{
+    font-size: 100px;
+    color: chartreuse; 
+}
+
+.head{
+    margin-top: 18px;
+}
+
+.loc span{
+    font-size: 50px;
+    color: gray;
+}
+.loc i{
+    font-size: 25px;
+    color: gray;
+}
+
+.main1{
+    margin: auto;
+    margin-top: 45px;
+    border-radius: 25px;
+    background-color: whitesmoke;
+}
+
+.icons2 span{
+    font-size: 100px;
+    color: chartreuse;
+}
+
+.main1 .connect{
+    color: rgb(6, 104, 231);
+    margin-top: 10px;
+    opacity: 90%;
+}
+.main1 .connect h5{
+    background-color: aqua; 
+    border-radius: 30px;
+    text-align: center;
+}
+
+.main1 .inconnect{
+    color: rgb(231, 6, 6);
+    margin-top: 10px;
+    opacity: 90%;
+}
+.main1 .inconnect h5{
+    background-color: rgb(204, 64, 71); 
+    border-radius: 30px;
+    text-align: center;
+    
+}
+
+.main1 p{
+    color: grey;
+    font-size: 30px;
+}
